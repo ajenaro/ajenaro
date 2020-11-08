@@ -1,7 +1,9 @@
-### Hi there 👋
+Hi there 👋! My name is Antonio Jenaro
 
-**ajenaro/ajenaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer, Data Scientist enthusiast and i love programming. 
+I'm working at the University of Cantabria and CH Consulting
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -9,6 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 Email: antonio.jenaro@gmail.com 
+📫 Email: antonio.jenaro@gmail.com 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
