@@ -1,7 +1,7 @@
 Hi there 👋! My name is Antonio Jenaro
 
 I'm a Software Developer, Data Scientist enthusiast and i love programming. 
-I'm working at the University of Cantabria and CH Consulting
+I work at the University of Cantabria and as a freelance developer
 
 <!--
 Here are some ideas to get you started:
